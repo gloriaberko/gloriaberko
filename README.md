@@ -1,4 +1,4 @@
-# Gloria Berko
+# ßerko
 ## Developer
 Hello.
 
